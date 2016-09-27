@@ -24,20 +24,26 @@ and code from [CppCon 2016](http://cppcon.org).
  - [C++ Costless Abstractions - the Compiler View](Presentations/C++ Costless Abstractions - the Compiler View/C++ Costless Abstractions - the Compiler View - Serge Guelton - CppCon 2016.pdf) by Serge Guelton \[[README](Presentations/C++ Costless Abstractions - the Compiler View/README.md)\]
  - [C++14 Reflections Without Macros, Markup nor External Tooling](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf) by Antony Polukhin \[[.odp](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.odp)\] \[[.pdf](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf)\]
  - [Constant Fun](Presentations/Constant Fun/Constant Fun - Dietmar Kuehl - CppCon 2016.pdf) by Dietmar Kuehl \[[README](Presentations/Constant Fun/README.md)\]
+ - [Deploying C++ modules to 100s of millions of lines of code](Presentations/Deploying C++ modules to 100s of millions of lines of code/Deploying C++ modules to 100s of millions of lines of code - Manuel Klimek - CppCon 2016.pdf) by Manuel Klimek
  - [Developing Correct C++ at Facebook Scale](Presentations/Developing Correct C++ at Facebook Scale/Developing Correct C++ at Facebook Scale - Mark Isaacson - CppCon 2016.pdf) by Mark Isaacson
  - [Elegant Asynchronous Code](Presentations/Elegant Asynchronous Code/Elegant Asynchronous Code - Nat Goodspeed - CppCon 2016.pdf) by Nat Goodspeed
+ - [Embracing Standard C++ for the Windows Runtime](Presentations/Embracing Standard C++ for the Windows Runtime/Embracing Standard C++ for the Windows Runtime - Kenny Kerr and James McNellis - CppCon 2016.pdf) by Kenny Kerr and James McNellis
  - [From Zero To Iterators](Presentations/From Zero To Iterators/From Zero To Iterators - Patrick Niedzielski - CppCon 2016.pdf) by Patrick Niedzielski
  - [Game Engine Using C++11](Presentations/Game Engine Using C++11/Game Engine Using C++11 - Jason Jurecka - CppCon 2016.pdf) by Jason Jurecka
  - [High Performance C++ Concurrent Transactional Data Structures](Presentations/High Performance C++ Concurrent Transactional Data Structures/High Performance C++ Concurrent Transactional Data Structures - Deli Zhang - CppCon 2016.pdf) by Deli Zhang \[[README](Presentations/High Performance C++ Concurrent Transactional Data Structures/README.md)\]
+ - [I Just Wanted a Random Integer!](Presentations/I Just Wanted a Random Integer!/I Just Wanted a Random Integer! - Cheinan Marks - CppCon 2016.pdf) by Cheinan Marks
  - [Implementing a Modern C++ MQTT Client for Embedded Devices](Presentations/Implementing a Modern C++ MQTT Client for Embedded Devices/Implementing a Modern C++ MQTT Client for Embedded Devices - Michael Caisse - CppCon 2016.pdf) by Michael Caisse
+ - [Implementing Lightweight Object Persistence With Modern C++](Presentations/Implementing Lightweight Object Persistence With Modern C++/Implementing Lightweight Object Persistence With Modern C++ - Bob Steagall - CppCon 2016.pdf) by Bob Steagall
  - [Improving Performance Through Compiler Switches](Presentations/Improving Performance Through Compiler Switches/Improving Performance Through Compiler Switches - Tim Haines - CppCon 2016.pdf) by Tim Haines
  - [IncludeOS - from bootloader to REST API with the new C++](Presentations/IncludeOS - from bootloader to REST API with the new C++/IncludeOS - from bootloader to REST API with the new C++ - Alfred Bratterud - CppCon 2016.pdf) by Alfred Bratterud \[[README](Presentations/IncludeOS - from bootloader to REST API with the new C++/README.md)\]
  - [Instruction Re-ordering Everywhere](Presentations/Instruction Re-ordering Everywhere/Instruction Re-ordering Everywhere - Charles Bay - CppCon 2016.pdf) by Charles Bay
  - [Iterator Haiku](Presentations/Iterator Haiku/Iterator Haiku - Casey Carter - CppCon 2016.pdf) by Casey Carter \[[.pdf](Presentations/Iterator Haiku/Iterator Haiku - Casey Carter - CppCon 2016.pdf)\] \[[.pptx](Presentations/Iterator Haiku/Iterator Haiku - Casey Carter - CppCon 2016.pptx)\]
  - [Lifetime Safety By Default - Making Code Leak-Free by Construction](Presentations/Lifetime Safety By Default - Making Code Leak-Free by Construction/Lifetime Safety By Default - Making Code Leak-Free by Construction - Herb Sutter - CppCon 2016.pdf) by Herb Sutter
  - [Make Friends with the Clang Static Analysis Tools](Presentations/Make Friends with the Clang Static Analysis Tools/Make Friends with the Clang Static Analysis Tools - Gabor Horvath - CppCon 2016.pdf) by Gabor Horvath \[[.pptx](Presentations/Make Friends with the Clang Static Analysis Tools/Make Friends with the Clang Static Analysis Tools - Gabor Horvath - CppCon 2016.pptx)\] \[[.pdf](Presentations/Make Friends with the Clang Static Analysis Tools/Make Friends with the Clang Static Analysis Tools - Gabor Horvath - CppCon 2016.pdf)\]
+ - [Optimally Shooting Furry Balls out of Vulkanoes](Presentations/Optimally Shooting Furry Balls out of Vulkanoes/Optimally Shooting Furry Balls out of Vulkanoes - Alexandru Voicu - CppCon 2016.pdf) by Alexandru Voicu
  - [Out of memory - Business as usual](Presentations/Out of memory - Business as usual/Out of memory - Business as usual - Sergey Zubkov - CppCon 2016.pdf) by Sergey Zubkov
  - [Parallelism in Modern C++](Presentations/Parallelism in Modern C++/Parallelism in Modern C++ - Hartmut Kaiser - CppCon 2016.pdf) by Hartmut Kaiser
+ - [Putting Coroutines to Work with the Windows Runtime](Presentations/Putting Coroutines to Work with the Windows Runtime/Putting Coroutines to Work with the Windows Runtime - Kenny Kerr and James McNellis - CppCon 2016.pdf) by Kenny Kerr and James McNellis
  - [Python and C++. The beauty and the beast](Presentations/Python and C++. The beauty and the beast/Python and C++. The beauty and the beast - Diego Rodriguez-Losada - CppCon 2016.pdf) by Diego Rodriguez-Losada
  - [Rainbow Six Siege - Quest for Performance](Presentations/Rainbow Six Siege - Quest for Performance/Rainbow Six Siege - Quest for Performance - Nicolas Fleury - CppCon 2016.pdf) by Nicolas Fleury
  - [Regular Expressions in C++, Present and Future](Presentations/Regular Expressions in C++, Present and Future/Regular Expressions in C++, Present and Future - Tim Shen - CppCon 2016.pdf) by Tim Shen
@@ -46,21 +52,26 @@ and code from [CppCon 2016](http://cppcon.org).
  - [STL Algorithms](Presentations/STL Algorithms/STL Algorithms - Marshall Clow - CppCon 2016.pdf) by Marshall Clow
  - [The Exception Situation](Presentations/The Exception Situation/The Exception Situation - Patrice Roy - CppCon 2016.pdf) by Patrice Roy
  - [The MAME Story - From C to Modern C++](Presentations/The MAME Story - From C to Modern C++/The MAME Story - From C to Modern C++ - Miodrag Milanovic - CppCon 2016.pdf) by Miodrag Milanovic \[[README](Presentations/The MAME Story - From C to Modern C++/README.md)\]
+ - [The Power of Reflection with Facebook's Thrift](Presentations/The Power of Reflection with Facebook's Thrift/The Power of Reflection with Facebook's Thrift - Marcelo Juchem - CppCon 2016.pdf) by Marcelo Juchem
  - [The speed of concurrency (is lock-free faster)](Presentations/The speed of concurrency (is lock-free faster)/The speed of concurrency (is lock-free faster) - Fedor Pikus - CppCon 2016.bz2) by Fedor Pikus
  - [The strange details of std string at Facebook](Presentations/The strange details of std string at Facebook/The strange details of std string at Facebook - Nicholas Ormrod - CppCon 2016.pdf) by Nicholas Ormrod
  - [Towards Heterogeneous Programming in C++](Presentations/Towards Heterogeneous Programming in C++/Towards Heterogeneous Programming in C++ - Gordon Brown and Michael Wong - CppCon 2016.pdf) by Gordon Brown and Michael Wong
  - [tuple, What's New, And How It Works](Presentations/tuple, What's New, And How It Works/tuple, What's New, And How It Works - Stephan T. Lavavej - CppCon 2016.pdf) by Stephan T. Lavavej
+ - [Using Weakly Ordered C++ Atomics Correctly](Presentations/Using Weakly Ordered C++ Atomics Correctly/Using Weakly Ordered C++ Atomics Correctly - Hans Boehm - CppCon 2016.pdf) by Hans Boehm
  - [Variadic expansion in examples](Presentations/Variadic expansion in examples/Variadic expansion in examples - Michał Dominiak - CppCon 2016.pdf) by Michał Dominiak
  - [Variants - Past, Present, and Future](Presentations/Variants - Past, Present, and Future/Variants - Past, Present, and Future - David Sankel - CppCon 2016.pdf) by David Sankel
  - [Welcome To The Time Zone](Presentations/Welcome To The Time Zone/Welcome To The Time Zone - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
  - [What Happened to Deprecated and Removed Features of C++](Presentations/What Happened to Deprecated and Removed Features of C++/What Happened to Deprecated and Removed Features of C++ - Billy Baker - CppCon 2016.pdf) by Billy Baker
  - [What is the basic interface](Presentations/What is the basic interface/What is the basic interface - Lisa Lippincott - CppCon 2016.pdf) by Lisa Lippincott
  - [What We’ve Learned From the C++ Community](Presentations/What We’ve Learned From the C++ Community/What We’ve Learned From the C++ Community - Rob Irving and Jason Turner - CppCon 2016.pdf) by Rob Irving and Jason Turner
+ - [Writing applications in modern C++ and Qt](Presentations/Writing applications in modern C++ and Qt/Writing applications in modern C++ and Qt - Jens Weller - CppCon 2016.pdf) by Jens Weller
 
 ## Tutorials
 
  - [A chrono Tutorial](Tutorials/A chrono Tutorial/A chrono Tutorial - Howard Hinnant - CppCon 2016.pdf) by Howard Hinnant
  - [Asynchronous IO with Boost.Asio](Tutorials/Asynchronous IO with Boost.Asio/Asynchronous IO with Boost.Asio - Michael Caisse - CppCon 2016.pdf) by Michael Caisse
+ - [BDE Libraries - An Orientation](Tutorials/BDE Libraries - An Orientation/BDE Libraries - An Orientation - Steven Breitstein - CppCon 2016.pdf) by Steven Breitstein
+ - [Better Mutual Exclusion on the Filesystem](Tutorials/Better Mutual Exclusion on the Filesystem/Better Mutual Exclusion on the Filesystem - Niall Douglas - CppCon 2016.pdf) by Niall Douglas
  - [GDB - a lot more than you realized](Tutorials/GDB - a lot more than you realized/GDB - a lot more than you realized - Greg Law - CppCon 2016.pdf) by Greg Law
  - [Implementing static control flow in C++14](Tutorials/Implementing static control flow in C++14/Implementing static control flow in C++14 - Vittorio Romeo - CppCon 2016.pdf) by Vittorio Romeo \[[.pptx](Tutorials/Implementing static control flow in C++14/Implementing static control flow in C++14 - Vittorio Romeo - CppCon 2016.pptx)\] \[[.pdf](Tutorials/Implementing static control flow in C++14/Implementing static control flow in C++14 - Vittorio Romeo - CppCon 2016.pdf)\] \[[README](Tutorials/Implementing static control flow in C++14/README.md)\]
  - [Practical Performance Practices](Tutorials/Practical Performance Practices/Practical Performance Practices - Jason Turner - CppCon 2016.pdf) by Jason Turner
@@ -75,3 +86,13 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Cache Optimised Hash library](Demos/Cache Optimised Hash library/Cache Optimised Hash library - Christiaan Pretorius - CppCon 2016.pdf) by Christiaan Pretorius
  - [Conan C and C++ package manager](Demos/Conan C and C++ package manager/Conan C and C++ package manager - Diego Rodriguez-Losada - CppCon 2016.pdf) by Diego Rodriguez-Losada
  - [Rich Code For Tiny Machines](Demos/Rich Code For Tiny Machines/Rich Code For Tiny Machines - Jason Turner - CppCon 2016.pptx) by Jason Turner \[[README](Demos/Rich Code For Tiny Machines/README.md)\]
+
+## Lightning Talks and Lunch Sessions
+
+ - [Presenting Code](Lightning Talks and Lunch Sessions/Presenting Code/Presenting Code - Jens Weller - CppCon 2016.pdf) by Jens Weller
+ - [Programming](Lightning Talks and Lunch Sessions/Programming/Programming - Jens Weller - CppCon 2016.pdf) by Jens Weller
+ - [uftrace - A function graph tracer C C++ userspace programs](Lightning Talks and Lunch Sessions/uftrace - A function graph tracer C C++ userspace programs/uftrace - A function graph tracer C C++ userspace programs - Namhyung Kim and Honggyu Kim - CppCon 2016.pdf) by Namhyung Kim and Honggyu Kim
+
+## Posters
+
+ - [uftrace - A function graph tracer for userspace programs](Posters/uftrace - A function graph tracer for userspace programs/uftrace - A function graph tracer for userspace programs - Namhyung Kim and Honggyu Kim - CppCon 2016.pdf) by Namhyung Kim and Honggyu Kim
