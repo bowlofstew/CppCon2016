@@ -10,6 +10,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Keynotes
 
+ - [extern C - Talking to C Programmers About C++](Keynotes/extern C - Talking to C Programmers About C++/extern C - Talking to C Programmers About C++ - Dan Saks - CppCon 2016.pdf) by Dan Saks
  - [The Evolution of C++ - Past, Present, and Future](Keynotes/The Evolution of C++ - Past, Present, and Future/The Evolution of C++ - Past, Present, and Future - Bjarne Stroustrup - CppCon 2016.pdf) by Bjarne Stroustrup
 
 ## Presentations
@@ -17,12 +18,14 @@ and code from [CppCon 2016](http://cppcon.org).
  - [A modern database interface for C++](Presentations/A modern database interface for C++/A modern database interface for C++ - Erik Smith - CppCon 2016.pdf) by Erik Smith
  - [AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!](Presentations/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits! - Andy Bond - CppCon 2016.pdf) by Andy Bond
  - [accumulate - Exploring an Algorithmic Empire](Presentations/accumulate - Exploring an Algorithmic Empire/accumulate - Exploring an Algorithmic Empire - Ben Deane - CppCon 2016.pdf) by Ben Deane
+ - [Advanced Levelization Techniques](Presentations/Advanced Levelization Techniques/Advanced Levelization Techniques - John Lakos - CppCon 2016.pdf) by John Lakos
  - [Algorithm Design For Values Distributed In Time](Presentations/Algorithm Design For Values Distributed In Time/Algorithm Design For Values Distributed In Time - Kirk Shoop - CppCon 2016.pdf) by Kirk Shoop
  - [Beyond the Issaquah Challenge](Presentations/Beyond the Issaquah Challenge/Beyond the Issaquah Challenge - Paul McKenney - CppCon 2016.pdf) by Paul McKenney
  - [Building Software Capital](Presentations/Building Software Capital/Building Software Capital - David Sankel - CppCon 2016.pdf) by David Sankel
  - [C++ Coroutines - Under The Covers](Presentations/C++ Coroutines - Under The Covers/C++ Coroutines - Under The Covers - Gor Nishanov - CppCon 2016.pdf) by Gor Nishanov
  - [C++ Costless Abstractions - the Compiler View](Presentations/C++ Costless Abstractions - the Compiler View/C++ Costless Abstractions - the Compiler View - Serge Guelton - CppCon 2016.pdf) by Serge Guelton \[[README](Presentations/C++ Costless Abstractions - the Compiler View/README.md)\]
  - [C++14 Reflections Without Macros, Markup nor External Tooling](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf) by Antony Polukhin \[[.odp](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.odp)\] \[[.pdf](Presentations/C++14 Reflections Without Macros, Markup nor External Tooling/C++14 Reflections Without Macros, Markup nor External Tooling - Antony Polukhin - CppCon 2016.pdf)\]
+ - [Channels - An Alternative to Callbacks and Futures](Presentations/Channels - An Alternative to Callbacks and Futures/Channels - An Alternative to Callbacks and Futures - John Bandela - CppCon 2016.pdf) by John Bandela
  - [Constant Fun](Presentations/Constant Fun/Constant Fun - Dietmar Kuehl - CppCon 2016.pdf) by Dietmar Kuehl \[[README](Presentations/Constant Fun/README.md)\]
  - [Deploying C++ modules to 100s of millions of lines of code](Presentations/Deploying C++ modules to 100s of millions of lines of code/Deploying C++ modules to 100s of millions of lines of code - Manuel Klimek - CppCon 2016.pdf) by Manuel Klimek
  - [Developing Correct C++ at Facebook Scale](Presentations/Developing Correct C++ at Facebook Scale/Developing Correct C++ at Facebook Scale - Mark Isaacson - CppCon 2016.pdf) by Mark Isaacson
@@ -31,6 +34,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [From Zero To Iterators](Presentations/From Zero To Iterators/From Zero To Iterators - Patrick Niedzielski - CppCon 2016.pdf) by Patrick Niedzielski
  - [Game Engine Using C++11](Presentations/Game Engine Using C++11/Game Engine Using C++11 - Jason Jurecka - CppCon 2016.pdf) by Jason Jurecka
  - [High Performance C++ Concurrent Transactional Data Structures](Presentations/High Performance C++ Concurrent Transactional Data Structures/High Performance C++ Concurrent Transactional Data Structures - Deli Zhang - CppCon 2016.pdf) by Deli Zhang \[[README](Presentations/High Performance C++ Concurrent Transactional Data Structures/README.md)\]
+ - [How to test static_assert](Presentations/How to test static_assert/How to test static_assert - Roland Bock - CppCon 2016.pdf) by Roland Bock
  - [I Just Wanted a Random Integer!](Presentations/I Just Wanted a Random Integer!/I Just Wanted a Random Integer! - Cheinan Marks - CppCon 2016.pdf) by Cheinan Marks
  - [Implementing a Modern C++ MQTT Client for Embedded Devices](Presentations/Implementing a Modern C++ MQTT Client for Embedded Devices/Implementing a Modern C++ MQTT Client for Embedded Devices - Michael Caisse - CppCon 2016.pdf) by Michael Caisse
  - [Implementing Lightweight Object Persistence With Modern C++](Presentations/Implementing Lightweight Object Persistence With Modern C++/Implementing Lightweight Object Persistence With Modern C++ - Bob Steagall - CppCon 2016.pdf) by Bob Steagall
@@ -92,6 +96,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Presenting Code](Lightning Talks and Lunch Sessions/Presenting Code/Presenting Code - Jens Weller - CppCon 2016.pdf) by Jens Weller
  - [Programming](Lightning Talks and Lunch Sessions/Programming/Programming - Jens Weller - CppCon 2016.pdf) by Jens Weller
  - [uftrace - A function graph tracer C C++ userspace programs](Lightning Talks and Lunch Sessions/uftrace - A function graph tracer C C++ userspace programs/uftrace - A function graph tracer C C++ userspace programs - Namhyung Kim and Honggyu Kim - CppCon 2016.pdf) by Namhyung Kim and Honggyu Kim
+ - [Variants of variadic and](Lightning Talks and Lunch Sessions/Variants of variadic and/Variants of variadic and - Roland Bock - CppCon 2016.pdf) by Roland Bock
 
 ## Posters
 
