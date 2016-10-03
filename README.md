@@ -15,6 +15,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Presentations
 
+ - [A C++ MQTT Message Broker for the Enterprise](Presentations/A C++ MQTT Message Broker for the Enterprise/A C++ MQTT Message Broker for the Enterprise - John Dubchak - CppCon 2016.pdf) by John Dubchak \[[.pptx](Presentations/A C++ MQTT Message Broker for the Enterprise/A C++ MQTT Message Broker for the Enterprise - John Dubchak - CppCon 2016.pptx)\] \[[.pdf](Presentations/A C++ MQTT Message Broker for the Enterprise/A C++ MQTT Message Broker for the Enterprise - John Dubchak - CppCon 2016.pdf)\]
  - [A modern database interface for C++](Presentations/A modern database interface for C++/A modern database interface for C++ - Erik Smith - CppCon 2016.pdf) by Erik Smith
  - [AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!](Presentations/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits!/AAAARGH! Adopting Almost Always Auto Reinforces Good Habits! - Andy Bond - CppCon 2016.pdf) by Andy Bond
  - [accumulate - Exploring an Algorithmic Empire](Presentations/accumulate - Exploring an Algorithmic Empire/accumulate - Exploring an Algorithmic Empire - Ben Deane - CppCon 2016.pdf) by Ben Deane
@@ -31,6 +32,7 @@ and code from [CppCon 2016](http://cppcon.org).
  - [Developing Correct C++ at Facebook Scale](Presentations/Developing Correct C++ at Facebook Scale/Developing Correct C++ at Facebook Scale - Mark Isaacson - CppCon 2016.pdf) by Mark Isaacson
  - [Elegant Asynchronous Code](Presentations/Elegant Asynchronous Code/Elegant Asynchronous Code - Nat Goodspeed - CppCon 2016.pdf) by Nat Goodspeed
  - [Embracing Standard C++ for the Windows Runtime](Presentations/Embracing Standard C++ for the Windows Runtime/Embracing Standard C++ for the Windows Runtime - Kenny Kerr and James McNellis - CppCon 2016.pdf) by Kenny Kerr and James McNellis
+ - [From Numerical Cosmology to Efficient Bit Abstractions for the Standard Library](Presentations/From Numerical Cosmology to Efficient Bit Abstractions for the Standard Library/From Numerical Cosmology to Efficient Bit Abstractions for the Standard Library - Vincent Reverdy - CppCon 2016.pdf) by Vincent Reverdy
  - [From Zero To Iterators](Presentations/From Zero To Iterators/From Zero To Iterators - Patrick Niedzielski - CppCon 2016.pdf) by Patrick Niedzielski
  - [Game Engine Using C++11](Presentations/Game Engine Using C++11/Game Engine Using C++11 - Jason Jurecka - CppCon 2016.pdf) by Jason Jurecka
  - [High Performance C++ Concurrent Transactional Data Structures](Presentations/High Performance C++ Concurrent Transactional Data Structures/High Performance C++ Concurrent Transactional Data Structures - Deli Zhang - CppCon 2016.pdf) by Deli Zhang \[[README](Presentations/High Performance C++ Concurrent Transactional Data Structures/README.md)\]
@@ -54,13 +56,16 @@ and code from [CppCon 2016](http://cppcon.org).
  - [SPMD Programming Using C++ and ISPC](Presentations/SPMD Programming Using C++ and ISPC/SPMD Programming Using C++ and ISPC - Nicolas Guillemot - CppCon 2016.pdf) by Nicolas Guillemot
  - [Standards Proposals for SG6 - Integers](Presentations/Standards Proposals for SG6 - Integers/Standards Proposals for SG6 - Integers - John McFarlane - CppCon 2016.pdf) by John McFarlane
  - [STL Algorithms](Presentations/STL Algorithms/STL Algorithms - Marshall Clow - CppCon 2016.pdf) by Marshall Clow
+ - [The Continuing Future of Concurrency in C++](Presentations/The Continuing Future of Concurrency in C++/The Continuing Future of Concurrency in C++ - Anthony Williams - CppCon 2016.pdf) by Anthony Williams
  - [The Exception Situation](Presentations/The Exception Situation/The Exception Situation - Patrice Roy - CppCon 2016.pdf) by Patrice Roy
+ - [The Guideline Support Library - One Year Later](Presentations/The Guideline Support Library - One Year Later/The Guideline Support Library - One Year Later - Neil MacIntosh - CppCon 2016.pdf) by Neil MacIntosh
  - [The MAME Story - From C to Modern C++](Presentations/The MAME Story - From C to Modern C++/The MAME Story - From C to Modern C++ - Miodrag Milanovic - CppCon 2016.pdf) by Miodrag Milanovic \[[README](Presentations/The MAME Story - From C to Modern C++/README.md)\]
  - [The Power of Reflection with Facebook's Thrift](Presentations/The Power of Reflection with Facebook's Thrift/The Power of Reflection with Facebook's Thrift - Marcelo Juchem - CppCon 2016.pdf) by Marcelo Juchem
  - [The speed of concurrency (is lock-free faster)](Presentations/The speed of concurrency (is lock-free faster)/The speed of concurrency (is lock-free faster) - Fedor Pikus - CppCon 2016.bz2) by Fedor Pikus
  - [The strange details of std string at Facebook](Presentations/The strange details of std string at Facebook/The strange details of std string at Facebook - Nicholas Ormrod - CppCon 2016.pdf) by Nicholas Ormrod
  - [Towards Heterogeneous Programming in C++](Presentations/Towards Heterogeneous Programming in C++/Towards Heterogeneous Programming in C++ - Gordon Brown and Michael Wong - CppCon 2016.pdf) by Gordon Brown and Michael Wong
  - [tuple, What's New, And How It Works](Presentations/tuple, What's New, And How It Works/tuple, What's New, And How It Works - Stephan T. Lavavej - CppCon 2016.pdf) by Stephan T. Lavavej
+ - [Using build2, C++ Build Toolchain](Presentations/Using build2, C++ Build Toolchain/Using build2, C++ Build Toolchain - Boris Kolpackov - CppCon 2016.pdf) by Boris Kolpackov \[[.txt](Presentations/Using build2, C++ Build Toolchain/Using build2, C++ Build Toolchain (terminal) - Boris Kolpackov - CppCon 2016.txt)\] \[[.pdf](Presentations/Using build2, C++ Build Toolchain/Using build2, C++ Build Toolchain - Boris Kolpackov - CppCon 2016.pdf)\] \[[README](Presentations/Using build2, C++ Build Toolchain/README.md)\]
  - [Using Weakly Ordered C++ Atomics Correctly](Presentations/Using Weakly Ordered C++ Atomics Correctly/Using Weakly Ordered C++ Atomics Correctly - Hans Boehm - CppCon 2016.pdf) by Hans Boehm
  - [Variadic expansion in examples](Presentations/Variadic expansion in examples/Variadic expansion in examples - Michał Dominiak - CppCon 2016.pdf) by Michał Dominiak
  - [Variants - Past, Present, and Future](Presentations/Variants - Past, Present, and Future/Variants - Past, Present, and Future - David Sankel - CppCon 2016.pdf) by David Sankel
@@ -93,6 +98,7 @@ and code from [CppCon 2016](http://cppcon.org).
 
 ## Lightning Talks and Lunch Sessions
 
+ - [On using singletons in C++](Lightning Talks and Lunch Sessions/On using singletons in C++/On using singletons in C++ - Arno Lepisk - CppCon 2016.pdf) by Arno Lepisk
  - [Presenting Code](Lightning Talks and Lunch Sessions/Presenting Code/Presenting Code - Jens Weller - CppCon 2016.pdf) by Jens Weller
  - [Programming](Lightning Talks and Lunch Sessions/Programming/Programming - Jens Weller - CppCon 2016.pdf) by Jens Weller
  - [uftrace - A function graph tracer C C++ userspace programs](Lightning Talks and Lunch Sessions/uftrace - A function graph tracer C C++ userspace programs/uftrace - A function graph tracer C C++ userspace programs - Namhyung Kim and Honggyu Kim - CppCon 2016.pdf) by Namhyung Kim and Honggyu Kim
